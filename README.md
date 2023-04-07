@@ -1,1 +1,1 @@
-# The_Enlarge_Cal_App
+# A Simple App to enlarge our friend Cal
